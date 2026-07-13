@@ -26,11 +26,11 @@
 
 ## Sayfalar
 
-- [Ana sayfa](https://www.artanddijital.com/): Hizmetler, süreç, "Neden şimdi" kanıt/istatistik bölümü, komisyon matematiği, SSS ve ücretsiz kontrol talebi.
-- [GEO nedir? SEO'dan farkı nedir?](https://www.artanddijital.com/geo-nedir.html): GEO'nun tanımı, bilimsel kökeni (ACM KDD 2024), SEO ile karşılaştırma tablosu, yapay zekanın otel seçme mekaniği ve başlangıç adımları.
-- [Otelim ChatGPT'de neden çıkmıyor?](https://www.artanddijital.com/chatgpt-otelim-neden-cikmiyor.html): Görünmemenin 5 yaygın nedeni (bot erişimi, yapılandırılmış veri, tutarsızlık, site dışı sessizlik, ölçümsüzlük) ve her birinin çözümü + 2 dakikalık kendi kendine test.
-- [GEO hizmeti fiyatları](https://www.artanddijital.com/geo-fiyat.html): Fiyatı belirleyen etkenler, hizmet kalemleri, sistemin kendini finanse etme mantığı ve "garantili sonuç" tekliflerine karşı uyarılar.
-- [KVKK & Gizlilik](https://www.artanddijital.com/gizlilik.html): Kişisel verilerin işlenmesine dair aydınlatma metni.
+- [Ana sayfa](https://artanddijital.com/): Hizmetler, süreç, "Neden şimdi" kanıt/istatistik bölümü, komisyon matematiği, SSS ve ücretsiz kontrol talebi.
+- [GEO nedir? SEO'dan farkı nedir?](https://artanddijital.com/geo-nedir.html): GEO'nun tanımı, bilimsel kökeni (ACM KDD 2024), SEO ile karşılaştırma tablosu, yapay zekanın otel seçme mekaniği ve başlangıç adımları.
+- [Otelim ChatGPT'de neden çıkmıyor?](https://artanddijital.com/chatgpt-otelim-neden-cikmiyor.html): Görünmemenin 5 yaygın nedeni (bot erişimi, yapılandırılmış veri, tutarsızlık, site dışı sessizlik, ölçümsüzlük) ve her birinin çözümü + 2 dakikalık kendi kendine test.
+- [GEO hizmeti fiyatları](https://artanddijital.com/geo-fiyat.html): Fiyatı belirleyen etkenler, hizmet kalemleri, sistemin kendini finanse etme mantığı ve "garantili sonuç" tekliflerine karşı uyarılar.
+- [KVKK & Gizlilik](https://artanddijital.com/gizlilik.html): Kişisel verilerin işlenmesine dair aydınlatma metni.
 
 ## Sık sorulan sorular (özet)
 

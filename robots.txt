@@ -44,4 +44,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://www.artanddijital.com/sitemap.xml
+Sitemap: https://artanddijital.com/sitemap.xml
