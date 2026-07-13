@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Art&amp;Dijital logo">
+  <defs>
+    <radialGradient id="swirlA" cx="30%" cy="30%" r="80%">
+      <stop offset="0%" stop-color="#C0392B"/>
+      <stop offset="45%" stop-color="#7B2440"/>
+      <stop offset="100%" stop-color="#16233C"/>
+    </radialGradient>
+    <radialGradient id="swirlB" cx="72%" cy="68%" r="70%">
+      <stop offset="0%" stop-color="#2E5A9E" stop-opacity=".85"/>
+      <stop offset="60%" stop-color="#16233C" stop-opacity=".4"/>
+      <stop offset="100%" stop-color="#0F1A2B" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="marble" x="-20%" y="-20%" width="140%" height="140%">
+      <feTurbulence type="fractalNoise" baseFrequency="0.032 0.045" numOctaves="3" seed="7" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="14" xChannelSelector="R" yChannelSelector="G"/>
+    </filter>
+  </defs>
+  <circle cx="50" cy="50" r="48" fill="#0F1A2B"/>
+  <g filter="url(#marble)">
+    <circle cx="50" cy="50" r="46" fill="url(#swirlA)"/>
+    <ellipse cx="62" cy="60" rx="34" ry="30" fill="url(#swirlB)"/>
+    <path d="M20 40 Q45 18 74 34 Q56 30 38 44 Q28 52 20 40Z" fill="#C0392B" opacity=".55"/>
+    <path d="M26 68 Q48 82 78 62 Q60 78 40 76 Q30 74 26 68Z" fill="#2E5A9E" opacity=".5"/>
+  </g>
+  <circle cx="50" cy="50" r="46.5" fill="none" stroke="#D9B95F" stroke-width="1.4" opacity=".9"/>
+  <text x="50" y="55" text-anchor="middle" font-family="Sora, Arial, sans-serif" font-size="15" font-weight="700" fill="#F6F3EA">Art<tspan fill="#D9B95F">&amp;</tspan></text>
+  <text x="50" y="70" text-anchor="middle" font-family="Sora, Arial, sans-serif" font-size="11" font-weight="600" fill="#F6F3EA">Dijital</text>
+</svg>

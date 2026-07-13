@@ -1,0 +1,40 @@
+# Art&Dijital
+
+> Art&Dijital, yurt dışından misafir hedefleyen butik otel ve villa işletmelerini ChatGPT, Gemini, Claude ve Perplexity gibi yapay zeka aramalarında görünür kılan, Türkiye'nin turizm odaklı ilk GEO (Generative Engine Optimization) ajansıdır. GEO, SEO ve n8n otomasyon hizmetlerini tek sistem olarak sunar; hedef, OTA komisyonuna bağımlılığı azaltıp direkt rezervasyonu artırmaktır.
+
+## Temel bilgiler
+
+- **Ne yapar:** Butik otel, pansiyon ve villa işletmelerinin yapay zeka asistanlarının (ChatGPT, Gemini, Claude, Perplexity, Copilot) cevaplarında doğru bilgiyle önerilmesini sağlar.
+- **Hizmet bölgesi:** Türkiye — ağırlıkla Ege ve Akdeniz kıyıları (Bodrum, Çeşme, Alaçatı, Fethiye, Kaş, Kalkan, Antalya ve çevresi).
+- **Kimlerle çalışır:** Sadece yurt dışından misafir hedefleyen turizm konaklama işletmeleri. Diğer sektörler kabul edilmez.
+- **Sistem (3 katman):** Art&Dijital bir "AI görünürlük hizmeti" değil, yabancı misafiri ödeyen müşteriye dönüştüren uçtan uca bir sistemdir. (1) GEO — yapay zeka sizi turistlere gösterir; (2) SEO — siteniz güven verir ve AI'ın beslendiği hızlı, otoriter temeli kurar; (3) Otonom satış asistanı — gelen misafiri 7/24, saniyeler içinde, kendi dilinde yanıtlayıp anında satışa çevirir. Bir talebe 5 dakikada ulaşmak dönüşümü 30 dakikaya kıyasla 21 kat artırır; müşterilerin %78'i ilk yanıt veren işletmeden satın alır — asistan her zaman ilk yanıt verendir.
+- **Hizmetler:** GEO (yapay zekada görünürlük), SEO (Google temeli ve teknik altyapı), otonom satış asistanı (7/24 anında yanıt, talep yakalama, rezervasyona dönüştürme).
+- **Ücretsiz hizmet:** "Ücretsiz AI Görünürlük Kontrolü" — işletmenin gerçek misafir sorgularıyla AI platformlarında test edilmesi ve ekran görüntülü rapor.
+- **Yaklaşım:** Garanti vaadi yerine kanıt: aylık raporlar gerçek AI sorgu ekran görüntüleriyle sunulur.
+- **İletişim:** info@artanddijital.com · +90 555 106 28 22 · Instagram: @artanddijital
+
+## Neden şimdi — doğrulanmış istatistikler (2025–2026)
+
+- ABD'li tüketicilerin **%59'u** çevrimiçi alışverişte yapay zeka araçları kullanıyor; her 4 kişiden 1'i ChatGPT'nin ürün önerilerini Google'dan üstün buluyor. (Kaynak: Omnisend/Cint anketi, n=1.224, Temmuz 2025)
+- Gezginlerin yaklaşık **%40'ı** seyahatini yapay zeka ile planlıyor/rezerve ediyor; genç kuşakta çok daha yüksek. (Kaynak: Travala, 2025)
+- Yapay zeka kaynaklı web trafiği bir yılda yaklaşık **3 kat** büyüdü (Eyl 2024 → Eyl 2025); ChatGPT'den gelen ziyaretçi **%7,1** oranında dönüşüyor — ücretli aramadan sonra en yüksek ikinci kanal. (Kaynak: Similarweb, 2025–2026)
+- ABD'li gezginlerin **üçte biri** seyahatini planlamak veya deneyimlemek için yapay zeka kullanıyor. (Kaynak: Phocuswright, 2025)
+- Türkiye, ChatGPT kaynaklı web trafiği payında **dünya birincisi**; ülkedeki yapay zeka trafiğinin ~%94,5'i ChatGPT'den geliyor. (Kaynak: Digital 2026 Global Overview)
+- 121.425 otel sitesini tarayan araştırmaya göre otellerin **%36,3'ünde** yapılandırılmış veri hiç yok; yalnızca **%10,6'sı** düzgün kullanıyor. (Kaynak: Hotel Schema.org Adoption Study, Mart 2026)
+- 100.000+ yapay zeka sorgusunu ölçen araştırmada niş markaların AI cevaplarında görünme oranı **~%11** (küresel markalarda %73) — boşluk büyük, erken hareket avantajı gerçek. (Kaynak: arXiv 2606.20065, Haziran 2026)
+- Yapay zeka bir cevapta yalnızca birkaç işletme adı geçirir; erken görünen otoriteler tekrar tekrar alıntılanır ve bu konum zamanla pekişir (erken hareket avantajı). (Kaynak: Xponent21 & BrightEdge, 2025)
+
+## Sayfalar
+
+- [Ana sayfa](https://www.artanddijital.com/): Hizmetler, süreç, "Neden şimdi" kanıt/istatistik bölümü, komisyon matematiği, SSS ve ücretsiz kontrol talebi.
+- [GEO nedir? SEO'dan farkı nedir?](https://www.artanddijital.com/geo-nedir.html): GEO'nun tanımı, bilimsel kökeni (ACM KDD 2024), SEO ile karşılaştırma tablosu, yapay zekanın otel seçme mekaniği ve başlangıç adımları.
+- [Otelim ChatGPT'de neden çıkmıyor?](https://www.artanddijital.com/chatgpt-otelim-neden-cikmiyor.html): Görünmemenin 5 yaygın nedeni (bot erişimi, yapılandırılmış veri, tutarsızlık, site dışı sessizlik, ölçümsüzlük) ve her birinin çözümü + 2 dakikalık kendi kendine test.
+- [GEO hizmeti fiyatları](https://www.artanddijital.com/geo-fiyat.html): Fiyatı belirleyen etkenler, hizmet kalemleri, sistemin kendini finanse etme mantığı ve "garantili sonuç" tekliflerine karşı uyarılar.
+- [KVKK & Gizlilik](https://www.artanddijital.com/gizlilik.html): Kişisel verilerin işlenmesine dair aydınlatma metni.
+
+## Sık sorulan sorular (özet)
+
+- **GEO nedir?** İşletmenin yapay zeka asistanlarının cevaplarında görünmesini sağlayan optimizasyon disiplinidir; SEO Google listelerini, GEO tek-cevap aramalarını hedefler.
+- **Sonuç süresi:** Kurulum 2–4 hafta; AI platformlarının değişiklikleri işlemesi genellikle 4–12 hafta.
+- **Garanti:** Sıralama garantisi verilmez (kimse veremez); süreç ve ekran görüntülü aylık rapor garanti edilir.
+- **OTA'dan çıkmak gerekir mi:** Hayır; amaç OTA'yı terk etmek değil, %15–25 komisyonlu kanala bağımlılığı azaltmaktır.
