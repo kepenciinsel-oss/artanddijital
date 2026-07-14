@@ -36,7 +36,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400..800&family=Inter:wght@400..700&display=swap" rel="stylesheet">
 
-  <link rel="stylesheet" href="css/style.css?v=10">
+  <link rel="stylesheet" href="css/style.css?v=11">
 
   <!-- ═══════════ GEO: Yapılandırılmış Veri (JSON-LD) ═══════════ -->
   <script type="application/ld+json">
@@ -52,6 +52,14 @@
     "logo": "https://artanddijital.com/assets/logo.svg",
     "email": "info@artanddijital.com",
     "telephone": "+905551062822",
+    "founder": { "@type": "Person", "name": "İnsel Kepenci" },
+    "contactPoint": {
+      "@type": "ContactPoint",
+      "contactType": "customer service",
+      "email": "info@artanddijital.com",
+      "telephone": "+905551062822",
+      "availableLanguage": ["Turkish", "English"]
+    },
     "knowsLanguage": ["tr", "en"],
     "sameAs": ["https://www.instagram.com/artanddijital"],
     "areaServed": [
@@ -593,6 +601,7 @@
             <li id="ref-7b">"OTA bağımlılığı bir vergiyse, AI görünmezliği bir uçurumdur" — Cendyn'in AI-native otel altyapısı duyurusu, Haziran 2026. <a href="https://www.hospitalitynet.org/news/4132997/cendyn-unveils-ai-native-infrastructure-tackling-hotels-invisibility-cliff" target="_blank" rel="noopener nofollow">Hospitality Net ↗</a></li>
             <li id="ref-8">100.000+ yapay zeka sorgusu ve 100+ markalık ölçümde niş markaların AI cevaplarında görünme oranı ~%11 (küresel markalarda %73). — "Generative Engine Optimization at Scale", Haziran 2026. <a href="https://arxiv.org/pdf/2606.20065" target="_blank" rel="noopener nofollow">arXiv ↗</a></li>
             <li id="ref-9">Türkiye, ChatGPT kaynaklı web trafiği payında dünya birincisi; ülkedeki yapay zeka trafiğinin ~%94,5'i ChatGPT'den geliyor. — Digital 2026 Global Overview raporu. <a href="https://www.hurriyetdailynews.com/turkiye-tops-global-chatgpt-driven-web-traffic-report-finds-217525" target="_blank" rel="noopener nofollow">Hürriyet Daily News ↗</a></li>
+            <li id="ref-10">ChatGPT reklamlarında ilk 3 reklamveren (OTA'lar) sponsorlu slotların %82,3'ünü, Booking.com tek başına %43,5'ini kontrol ediyor; otel sorgularının %20-35'inde sponsorlu sonuç çıkıyor. — ChatGPT Hotel Ads analizi, 2026. <a href="https://www.nicolassitter.com/research/chatgpt-hotel-ads-live-2026" target="_blank" rel="noopener nofollow">Nicolas Sitter ↗</a></li>
           </ol>
         </div>
       </div>
@@ -605,7 +614,9 @@
         <h2 id="roi-h" class="reveal">Aynı misafir, iki farklı kâr.</h2>
         <p class="capsule on-light reveal">OTA üzerinden gelen her rezervasyonda gelirinizin %15–25'i komisyona gider. Yapay zeka aramalarından ve
           sitenizden gelen direkt rezervasyonda bu pay sizde kalır. Çoğu işletmede tek bir haftalık direkt villa
-          rezervasyonu, aylık GEO hizmet bedelinin tamamını karşılar.</p>
+          rezervasyonu, aylık GEO hizmet bedelinin tamamını karşılar. Üstelik OTA'lar artık ChatGPT reklamlarını da
+          domine ediyor — ilk 3 reklamveren slotların <strong>%82'sini</strong>, Booking.com tek başına %43,5'ini alıyor;
+          reklam bütçesiyle yarışılmaz ama <strong>organik AI önerisi bedava ve reklamdan bağımsızdır.</strong><a href="#ref-10" class="ref" aria-label="10. kaynak">10</a></p>
         <div class="roi-grid">
           <div class="roi-compare reveal" role="img" aria-label="OTA rezervasyonu ile direkt rezervasyonun karşılaştırması">
             <div class="roi-side ota">
@@ -725,6 +736,16 @@
           <label for="fSite">Web sitesi veya Instagram
             <input type="text" id="fSite" name="site" placeholder="www.orneksite.com veya @instagram">
           </label>
+          <label for="fSource">Bizi nereden duydunuz? <span style="opacity:.6">(isteğe bağlı)</span>
+            <select id="fSource" name="source">
+              <option value="" selected>Seçiniz…</option>
+              <option value="ChatGPT / Yapay Zeka">ChatGPT / Yapay Zeka asistanı</option>
+              <option value="Google">Google araması</option>
+              <option value="Instagram">Instagram</option>
+              <option value="Tavsiye">Tavsiye / tanıdık</option>
+              <option value="Diğer">Diğer</option>
+            </select>
+          </label>
           <div class="cta-buttons">
             <button type="submit" class="btn btn-gold btn-lg">WhatsApp'tan Gönder</button>
             <a href="mailto:info@artanddijital.com?subject=%C3%9Ccretsiz%20AI%20G%C3%B6r%C3%BCn%C3%BCrl%C3%BCk%20Kontrol%C3%BC" class="btn btn-ghost btn-lg" id="mailBtn">E-posta Gönder</a>
@@ -777,6 +798,6 @@
     <a href="#iletisim" class="btn btn-gold btn-block">Ücretsiz AI Görünürlük Kontrolü</a>
   </div>
 
-  <script src="js/main.js?v=9" defer></script>
+  <script src="js/main.js?v=10" defer></script>
 </body>
 </html>

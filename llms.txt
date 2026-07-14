@@ -23,6 +23,7 @@
 - 121.425 otel sitesini tarayan araştırmaya göre otellerin **%36,3'ünde** yapılandırılmış veri hiç yok; yalnızca **%10,6'sı** düzgün kullanıyor. (Kaynak: Hotel Schema.org Adoption Study, Mart 2026)
 - 100.000+ yapay zeka sorgusunu ölçen araştırmada niş markaların AI cevaplarında görünme oranı **~%11** (küresel markalarda %73) — boşluk büyük, erken hareket avantajı gerçek. (Kaynak: arXiv 2606.20065, Haziran 2026)
 - Yapay zeka bir cevapta yalnızca birkaç işletme adı geçirir; erken görünen otoriteler tekrar tekrar alıntılanır ve bu konum zamanla pekişir (erken hareket avantajı). (Kaynak: Xponent21 & BrightEdge, 2025)
+- ChatGPT reklamlarında ilk 3 reklamveren (OTA'lar) sponsorlu slotların **%82,3'ünü**, Booking.com tek başına %43,5'ini kontrol ediyor — bağımsız otel için reklam yarışı kapalı, organik AI önerisi ise bedava ve reklamdan bağımsız. (Kaynak: Nicolas Sitter, ChatGPT Hotel Ads analizi, 2026)
 
 ## Sayfalar
 
